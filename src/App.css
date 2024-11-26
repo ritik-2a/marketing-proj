@@ -1,0 +1,33 @@
+.first{
+    background-color:bisque;
+}
+
+/* .rk-image{
+    margin: 2rem; 
+    height: 32rem;
+    width: auto;
+    /* background-size: contain;
+    background-color: aqua;
+} */
+.rk-container{
+    display: grid;
+    /* grid-template-columns: repeat(2, 1fr); */
+    grid-template-columns: 1fr 1fr 1fr;
+    /* width: 80%; */
+    /* margin: 2rem; */
+    /* align-items: center;
+    justify-content: center; */
+
+}
+  
+
+
+.card-boxes{
+    margin: 1rem;
+
+}
+.cart-cover{
+
+}
+
+/* caroul style */
